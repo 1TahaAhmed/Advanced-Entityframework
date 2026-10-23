@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advanced Entityframework Core Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747b96831b453a45dbaf4e40bab3cbc7cc8304ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advanced Entityframework Core Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advanced Entityframework Core Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -168,3 +168,4 @@ C:\Users\Doctor_PC\source\repos\C#Fundamentals\ADO.NET\ADOD2\Advanced Entityfram
 C:\Users\Doctor_PC\source\repos\C#Fundamentals\ADO.NET\ADOD2\Advanced Entityframework Core Task\Advanced Entityframework Core Task\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 C:\Users\Doctor_PC\source\repos\C#Fundamentals\ADO.NET\ADOD2\Advanced Entityframework Core Task\Advanced Entityframework Core Task\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 C:\Users\Doctor_PC\source\repos\C#Fundamentals\ADO.NET\ADOD2\Advanced Entityframework Core Task\Advanced Entityframework Core Task\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Doctor_PC\source\repos\C#Fundamentals\ADO.NET\ADOD2\Advanced Entityframework Core Task\Advanced Entityframework Core Task\obj\Debug\net10.0\Advanced Entityframework Core Task.sourcelink.json
